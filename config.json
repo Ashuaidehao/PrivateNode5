@@ -19,7 +19,7 @@
       "Path": "5.json",
       "Password": "123456",
       "StartConsensus": false,
-      "IsActive": true
+      "IsActive": false
     }
   }
 }
