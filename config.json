@@ -18,7 +18,7 @@
     "UnlockWallet": {
       "Path": "5.json",
       "Password": "123456",
-      "StartConsensus": true,
+      "StartConsensus": false,
       "IsActive": true
     }
   }
