@@ -8,7 +8,6 @@
       "032591483c7c7b1ac35e37a9f7a781607d9fd1bd661bdd161cfe744c4b5c1e261f"
     ],
     "SeedList": [
-      "127.0.0.1:50333"
     ],
     "SystemFee": {
       "EnrollmentTransaction": 1000,
