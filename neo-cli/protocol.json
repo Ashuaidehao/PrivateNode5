@@ -2,7 +2,7 @@
   "ProtocolConfiguration": {
     "Magic": 10010,
     "AddressVersion": 23,
-    "SecondsPerBlock": 15,
+    "SecondsPerBlock": 5,
     "LowPriorityThreshold": 0.001,
     "StandbyValidators": [
       "032591483c7c7b1ac35e37a9f7a781607d9fd1bd661bdd161cfe744c4b5c1e261f"
